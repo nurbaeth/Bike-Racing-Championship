@@ -9,7 +9,7 @@ Bike Racing Championship is an on-chain bicycle racing game built on Solidity. P
 - 🏆 Automatic winner detection and reset for new races.
 
 ## How It Works ⚙️
-1. **Join the Race** – Players register with custom stamina and speed.
+1. **Join the Race** – Players register with custom stamina and speed. 
 2. **Start the Race** – The race begins when at least two players join.
 3. **Progress the Race** – Players advance based on speed and random factors.
 4. **Win the Race** – The first player to reach the finish line wins!
