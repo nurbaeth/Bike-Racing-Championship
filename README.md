@@ -12,7 +12,7 @@ Bike Racing Championship is an on-chain bicycle racing game built on Solidity. P
 1. **Join the Race** – Players register with custom stamina and speed. 
 2. **Start the Race** – The race begins when at least two players join.
 3. **Progress the Race** – Players advance based on speed and random factors. 
-4. **Win the Race** – The first player to reach the finish line wins! 
+4. **Win the Race** – The first player to reach the finish line wins!  
 
 ## Smart Contract Functions 📜
 - `joinRace(uint _stamina, uint _speed)` – Enter the race with custom attributes.
